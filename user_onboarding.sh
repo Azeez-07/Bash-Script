@@ -8,7 +8,7 @@ cd $name
 
 echo "Files created successfully"
 
-touch profile.txt password.txt
-echo "$emp" > password.txt
+touch 'profile.txt' 'password.txt'
+echo "$emp" > 'password.txt'
 
 echo "User onboarded successfully...."
